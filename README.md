@@ -3,7 +3,7 @@
 
 # tout en bootstrap grace a la doc bien fourni https://getbootstrap.com/docs/4.5/getting-started/introduction/
 
-</h1>
+
 ## Screenshots
 
 <img
